@@ -1,0 +1,17 @@
+Inheritance:
+"is a" relationship between classes
+establish relationship between classes - between types
+subclass should support every behaviour of the superclass
+Liskov's property of substitution:
+- should be possible to replace an object of the superclass
+	by an object of the subclass
+- subclass should support the interface of the superclass
+
+polymorphism:
+- many forms
+we can replace an object of the superclass by an object of
+the subclass - we can invoke a method on the superclass object
+- this will be dispatched to the subclass object by which
+the superclass object has been replaced
+
+

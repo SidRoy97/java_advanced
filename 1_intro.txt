@@ -1,0 +1,79 @@
+Welcome to the course:
+CS2
+Theme : Object Oriented Programming in Java
+
+N S Kumar
+ask.kumaradhara@gmail.com
+
+Gautham: piece of code which helps object to work
+         object is a device
+		
+anish : instructing a computer to process some input and give some output
+		object orientation is a mind set
+		approach to solving a problem
+		
+Dijkstra:
+The Humble programmer
+	there is no unique way of writing a program
+book: Discipline of programming
+Science of Programming : Gries
+Art of Computer Programming: Knuth
+
+Evolution of languages:
+- fortran : formula translation
+		developed by Backus and his team
+		scientific and engineering applications
+		number crunching
+
+- cobol : COmmon Business Oriented Language
+		commercial applications
+		can handle huge amount f data
+- Algol : Algorithmic Language
+		designed by a ccmmittee of academicians
+- PL/I :  programming language one
+		designed by IBM
+		combine all languages together
+		universal language
+
+- Pascal : designed by N. Wirth
+		designed for teaching
+
+- C : Dennis Ritchie
+	goal : efficiency
+
+- C++ : Bjarne Stroustrup
+	goal : efficiency
+			type safety
+	supports diff ways of thinking
+	
+- Java :
+	team lead by Gosling
+	latest : 1.8
+	compiled program in java is small
+	supported networking
+	has a huge library
+	are available on the computer on which java programs are run
+	
+The list goes on and on
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

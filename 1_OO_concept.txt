@@ -1,0 +1,48 @@
+- Object Oriented Programming
+
+type:
+	range of values
+	set of operators
+a language cannot provide all possible types
+should provide a mechanism to make our own types
+- is called class (user defined type)
+- a class
+-		contains data (attributes or fields)
+-		contains behaviour(method - functions)
+- a variable of class type : object
+-	also called instance of a class
+
+- a type has behaviours
+-	these should say what happens when we use them //INTERFACE
+-   these should not say how these happen //IMPLEMENTATION
+- distinguish between what and how
+
+- class is normally not a pure type
+- it is type + implementation
+
+features of an Object Oriented Programming Language
+* abstraction
+	select what is essential
+	ignore what is not essential
+	selective ignorance
+	banker's abstraction of a cheque is different compared
+		to printer's abstraction
+* encapsulation
+	put together attributes and behaviour(data and function)
+	hide what could change  
+	expose what should not change 
+	hide the implementation
+	expose the interface
+	not a security issue
+	issue of maintenance
+
+* composition
+* inheritance
+* polymorphism
+
+
+
+
+
+
+

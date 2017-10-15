@@ -1,0 +1,23 @@
+different paradigms of programming:
+- procedural 
+	divide the problem into small parts
+    write a function for each
+- functional
+	concept of functions in math
+	result of fn depends on the argument only
+- generic programming
+	develop flexible programs - work on different types
+- logical programming
+	based propositional logic, predicate calculus
+- object based	
+	abstraction
+	encapsulation
+	composition
+- Object oriented
+	abstraction
+	encapsulation
+	composition
+	inheritance
+	polymorphism
+
+	 
